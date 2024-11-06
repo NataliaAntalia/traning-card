@@ -24,3 +24,8 @@ yarn-error.log*
 
 ./.idea
 
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/traning-card2.iml
+/.idea/vcs.xml
