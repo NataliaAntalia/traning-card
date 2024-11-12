@@ -1,6 +1,15 @@
 import styled from "styled-components";
 
-export const StyledText = styled.div`
+export const Text = styled.h2`
+    margin: 9px 210px 141px 20px;
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: left;
+    line-height: 19.36px;
+`
+
+export const StyledText = styled.p`
     color: #ABB3BA;
     font-family: Arial;
     font-size: 12.5px;
@@ -11,11 +20,3 @@ export const StyledText = styled.div`
 `
 
 
-export const Text = styled.h2`
-    margin: 9px 210px 141px 20px;
-    font-family: Arial;
-    font-weight: 700;
-    font-size: 16px;
-    text-align: left;
-    line-height: 19.36px;
-`
