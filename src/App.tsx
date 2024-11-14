@@ -15,11 +15,11 @@ function App() {
           <Text>Headline</Text>
           <StyledText>Faucibus. Faucibus. Sit sit sapien sit
             tempusrisu ut. Sit molestie ornare in venen.</StyledText>
-
+<div>
           <StyledButton>See more</StyledButton>
 
           <SuperButton>Save</SuperButton>
-
+</div>
         </StyledBackground>
 
 
@@ -36,7 +36,7 @@ const StyledBox = styled.div`
 
 
     @media screen and (max-width: 600px) {
-        flex-direction: revert;
+        flex-direction: column;
         flex: 1 1 100%; 
     }
 `

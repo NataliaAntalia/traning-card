@@ -12,5 +12,9 @@ export const StyledBackground = styled.div<StyledBackgroundPropsType>`
     width: 300px;
     border-radius: 15px;
     box-shadow: 0 4px 20px 5px #0000001A;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
     
 `
