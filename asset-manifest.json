@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/traning-card/static/css/main.31d6cfe0.css",
+    "main.js": "/traning-card/static/js/main.3f20eb43.js",
+    "static/js/453.795fb037.chunk.js": "/traning-card/static/js/453.795fb037.chunk.js",
+    "static/media/image.webp": "/traning-card/static/media/image.b961e6474c59c5c518d4.webp",
+    "index.html": "/traning-card/index.html",
+    "main.3f20eb43.js.map": "/traning-card/static/js/main.3f20eb43.js.map",
+    "453.795fb037.chunk.js.map": "/traning-card/static/js/453.795fb037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3f20eb43.js"
+  ]
+}
